@@ -5,7 +5,7 @@
 	</head>
 	<body>
 		<?php
-        	$preu = 8;
+        	$preu = 12;
           	$IVA=11;
           	if (empty($_GET['ingr'])) {
             	$pvp=((100+$IVA)/100)*$preu;
