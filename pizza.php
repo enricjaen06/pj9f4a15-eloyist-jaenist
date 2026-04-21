@@ -5,7 +5,7 @@
         </head>
         <body>
                 <?php
-                $preu = 10;
+                $preu = 12;
                 $IVA = 10;
 
                 if (empty($_GET['ingr'])) {
